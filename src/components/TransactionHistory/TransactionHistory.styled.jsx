@@ -11,7 +11,7 @@ border-collapse: collapse;
 font-weight: 500;
 -webkit-box-shadow: 0px 0px 5px 4px rgba(0,0,0,0.49);
 -moz-box-shadow: 0px 0px 5px 4px rgba(0,0,0,0.49);
-box-shadow: 0px 0px 5px 4px rgba(0,0,0,0.49);;
+box-shadow: 0px 0px 5px 4px rgba(0,0,0,0.49);
 
     thead {
         background-color: rgb(89, 166, 224);

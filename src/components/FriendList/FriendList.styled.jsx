@@ -22,9 +22,9 @@ font-weight: 500;
 font-size:24px;
 border-radius: 5px;
 
--webkit-box-shadow: 0px 1px 3px 3px rgba(0,0,0,0.47);
--moz-box-shadow: 0px 1px 3px 3px rgba(0,0,0,0.47);
-box-shadow: 0px 1px 3px 3px rgba(0,0,0,0.47);
+-webkit-box-shadow: 7px 7px 9px 0px rgba(0,0,0,0.4);
+-moz-box-shadow: 7px 7px 9px 0px rgba(0,0,0,0.4);
+box-shadow: 7px 7px 9px 0px rgba(0,0,0,0.4);
 
 `;
 
@@ -39,4 +39,8 @@ flex-direction: column;
 background-color: rgb(186, 195, 202);
 align-items: center;
 border-radius: 10px;
+
+-webkit-box-shadow: 0px 0px 5px 4px rgba(0,0,0,0.49);
+-moz-box-shadow: 0px 0px 5px 4px rgba(0,0,0,0.49);
+box-shadow: 0px 0px 5px 4px rgba(0,0,0,0.49);
 `;
