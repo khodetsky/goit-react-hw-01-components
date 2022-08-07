@@ -1,6 +1,7 @@
-import styled from '@emotion/styled'
+import styled from '@emotion/styled';
 
 export const ProfileCard = styled.div`
+box-sizing: border-box;
 margin-left: auto;
 margin-right: auto;
 display: flex;
@@ -8,7 +9,7 @@ flex-direction: column;
 align-items: center;
 
 border-radius: 10px;
-max-width: 200px;
+max-width: 300px;
 width: auto;
 height: auto;
 padding:24px;
